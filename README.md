@@ -9,5 +9,3 @@ This is a simple portfolio website built using **HTML** for practice purposes. N
 | Technology | Description               |
 |------------|---------------------------|
 | `HTML5`    | Structure and content     |
-
-sJn sXJ sjnJSjSJjSj jsj sj j 
