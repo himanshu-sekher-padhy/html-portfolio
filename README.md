@@ -10,4 +10,3 @@ This is a simple portfolio website built using **HTML** for practice purposes. N
 |------------|---------------------------|
 | `HTML5`    | Structure and content     |
 
-asjkc
